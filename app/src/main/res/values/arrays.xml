@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="image_slide">
+        <item>@drawable/winter_friendship_camp_01</item>
+        <item>@drawable/winter_friendship_camp_02</item>
+        <item>@drawable/winter_friendship_camp_03</item>
+        <item>@drawable/winter_friendship_camp_04</item>
+        <item>@drawable/winter_friendship_camp_05</item>
+    </array>
+
+</resources>
